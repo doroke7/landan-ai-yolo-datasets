@@ -1,0 +1,138 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "card",
+      "points": [
+        [
+          777.0,
+          218.0
+        ],
+        [
+          949.0,
+          474.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          793.0,
+          464.0
+        ],
+        [
+          965.0,
+          592.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "front",
+      "points": [
+        [
+          777.0,
+          218.0
+        ],
+        [
+          949.0,
+          474.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "front",
+      "points": [
+        [
+          793.0,
+          464.0
+        ],
+        [
+          965.0,
+          592.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          777.0,
+          218.0
+        ],
+        [
+          949.0,
+          474.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sword",
+      "points": [
+        [
+          793.0,
+          464.0
+        ],
+        [
+          965.0,
+          592.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "4",
+      "points": [
+        [
+          793.0,
+          464.0
+        ],
+        [
+          965.0,
+          592.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "10",
+      "points": [
+        [
+          777.0,
+          218.0
+        ],
+        [
+          949.0,
+          474.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1500.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

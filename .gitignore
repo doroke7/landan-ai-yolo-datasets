@@ -1,0 +1,5 @@
+# all/<game>/ 底下只保留 labeling，其餘全部忽略
+all/*/*
+!all/*/labeling
+
+.DS_Store

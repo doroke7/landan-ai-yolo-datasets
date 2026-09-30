@@ -1,0 +1,226 @@
+{
+  "version": "7.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Cube",
+      "points": [
+        [
+          503.0,
+          254.0
+        ],
+        [
+          578.0,
+          347.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9347017407417297, \"text\": \"face of the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          610.0,
+          287.0
+        ],
+        [
+          683.0,
+          363.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9059984683990479, \"text\": \"face of the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          612.0,
+          353.0
+        ],
+        [
+          689.0,
+          453.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9314005374908447, \"text\": \"face of the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          504.34459364454443,
+          251.0072764341957
+        ],
+        [
+          573.2290494938132,
+          301.3447342519685
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          614.2249015748031,
+          288.755975815523
+        ],
+        [
+          680.4521922485528,
+          334.9717234985528
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          615.0,
+          353.0
+        ],
+        [
+          689.0,
+          405.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7004470229148865, \"text\": \"top face of the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          504.64338442069743,
+          303.1550548368954
+        ],
+        [
+          568.5670345894263,
+          343.4039299775028
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          569.5864384139481,
+          282.26167041619794
+        ],
+        [
+          578.8357705286838,
+          343.935601799775
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          614.611571991001,
+          405.05589145106853
+        ],
+        [
+          685.8072623734532,
+          454.4090973003374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "2",
+      "points": [
+        [
+          614.2249015748031,
+          288.755975815523
+        ],
+        [
+          680.8350047485528,
+          335.1475047485528
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "3",
+      "points": [
+        [
+          504.34459364454443,
+          251.0072764341957
+        ],
+        [
+          573.2290494938132,
+          301.3447342519685
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "6",
+      "points": [
+        [
+          615.0,
+          353.0
+        ],
+        [
+          689.0,
+          405.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7004470229148865, \"text\": \"top face of the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "2026-09-11@10h03m28s090.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}
