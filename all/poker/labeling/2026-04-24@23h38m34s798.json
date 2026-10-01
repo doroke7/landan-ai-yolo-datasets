@@ -1,422 +1,348 @@
 {
-  "version": "5.0.0",
+  "version": "7.7.0",
   "flags": {},
   "shapes": [
     {
       "label": "Card",
       "points": [
         [
-          533.0,
-          221.0
+          533.0056877072968,
+          222.44425010364841
         ],
         [
-          591.0,
-          299.0
+          591.5525627072968,
+          298.0770626036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Card",
       "points": [
         [
-          618.0,
-          257.0
+          619.9002189572968,
+          256.2528438536484
         ],
         [
-          695.0,
-          321.0
+          696.9314689572968,
+          320.6161251036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Card",
       "points": [
         [
-          679.0,
-          326.0
+          694.3728752072968,
+          143.60440635364841
         ],
         [
-          763.0,
-          410.0
+          778.9705314572968,
+          219.15518760364841
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Card",
       "points": [
         [
-          679.0,
-          326.0
+          713.6931877072968,
+          228.66300010364841
         ],
         [
-          763.0,
-          410.0
+          786.5760002072968,
+          283.3739376036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Card",
       "points": [
         [
-          693.0,
-          143.0
+          680.0994377072968,
+          326.0223751036484
         ],
         [
-          778.0,
-          221.0
+          763.0955314572968,
+          409.5419063536484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Card",
       "points": [
         [
-          714.0,
-          229.0
+          755.3689689572968,
+          296.9481563536484
         ],
         [
-          786.0,
-          281.0
+          841.3299064572968,
+          376.1200313536484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Card",
       "points": [
         [
-          754.0,
-          296.0
+          843.8845939572968,
+          280.7606563536484
         ],
         [
-          840.0,
-          375.0
+          920.9822502072968,
+          365.2723751036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Card",
-      "points": [
-        [
-          844.0,
-          281.0
-        ],
-        [
-          920.0,
-          366.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Front",
-      "points": [
-        [
-          533.0,
-          221.0
-        ],
-        [
-          591.0,
-          299.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Front",
-      "points": [
-        [
-          679.0,
-          326.0
-        ],
-        [
-          763.0,
-          410.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Front",
-      "points": [
-        [
-          679.0,
-          326.0
-        ],
-        [
-          763.0,
-          410.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Front",
-      "points": [
-        [
-          693.0,
-          143.0
-        ],
-        [
-          778.0,
-          221.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Front",
-      "points": [
-        [
-          714.0,
-          229.0
-        ],
-        [
-          786.0,
-          281.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Front",
-      "points": [
-        [
-          754.0,
-          296.0
-        ],
-        [
-          840.0,
-          375.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Flow",
       "points": [
         [
-          618.0,
-          257.0
+          619.9002189572968,
+          256.2528438536484
         ],
         [
-          695.0,
-          321.0
+          696.9314689572968,
+          320.6161251036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Back",
       "points": [
         [
-          844.0,
-          281.0
+          843.8845939572968,
+          280.7606563536484
         ],
         [
-          920.0,
-          366.0
+          920.9822502072968,
+          365.2723751036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
-      "label": "Diamond",
+      "label": "6",
       "points": [
         [
-          533.0,
-          221.0
+          680.0994377072968,
+          326.0223751036484
         ],
         [
-          591.0,
-          299.0
+          763.0955314572968,
+          409.5419063536484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Diamond",
-      "points": [
-        [
-          679.0,
-          326.0
-        ],
-        [
-          763.0,
-          410.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Diamond",
-      "points": [
-        [
-          679.0,
-          326.0
-        ],
-        [
-          763.0,
-          410.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Diamond",
-      "points": [
-        [
-          693.0,
-          143.0
-        ],
-        [
-          778.0,
-          221.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Diamond",
-      "points": [
-        [
-          714.0,
-          229.0
-        ],
-        [
-          786.0,
-          281.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Club",
-      "points": [
-        [
-          754.0,
-          296.0
-        ],
-        [
-          840.0,
-          375.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "4",
-      "points": [
-        [
-          754.0,
-          296.0
-        ],
-        [
-          840.0,
-          375.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "5",
-      "points": [
-        [
-          714.0,
-          229.0
-        ],
-        [
-          786.0,
-          281.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "7",
       "points": [
         [
-          533.0,
-          221.0
+          533.0056877072968,
+          222.44425010364841
         ],
         [
-          591.0,
-          299.0
+          591.5525627072968,
+          298.0770626036484
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "4",
+      "points": [
+        [
+          755.3689689572968,
+          296.9481563536484
+        ],
+        [
+          841.3299064572968,
+          376.1200313536484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "5",
+      "points": [
+        [
+          713.6931877072968,
+          228.66300010364841
+        ],
+        [
+          786.5760002072968,
+          283.3739376036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     },
     {
       "label": "8",
       "points": [
         [
-          693.0,
-          143.0
+          694.3728752072968,
+          143.60440635364841
         ],
         [
-          778.0,
-          221.0
+          778.9705314572968,
+          219.15518760364841
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Diamond",
+      "points": [
+        [
+          680.0994377072968,
+          326.0223751036484
+        ],
+        [
+          763.0955314572968,
+          409.5419063536484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Diamond",
+      "points": [
+        [
+          533.0056877072968,
+          222.44425010364841
+        ],
+        [
+          591.5525627072968,
+          298.0770626036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Club",
+      "points": [
+        [
+          755.3689689572968,
+          296.9481563536484
+        ],
+        [
+          841.3299064572968,
+          376.1200313536484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Diamond",
+      "points": [
+        [
+          713.6931877072968,
+          228.66300010364841
+        ],
+        [
+          786.5760002072968,
+          283.3739376036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Diamond",
+      "points": [
+        [
+          694.3728752072968,
+          143.60440635364841
+        ],
+        [
+          778.9705314572968,
+          219.15518760364841
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "2026-04-24@23h38m34s798.png",
