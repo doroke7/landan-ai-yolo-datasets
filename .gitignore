@@ -1,4 +1,9 @@
+# 根目錄下（除 all 外）的目錄：內容忽略，只保留 .gitkeep 以維持目錄
+/*/*
+!/*/.gitkeep
+
 # all/<game>/ 底下只保留 labeling，其餘全部忽略
+!/all/*
 all/*/*
 !all/*/labeling
 
