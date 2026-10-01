@@ -2,9 +2,15 @@
 /*/*
 !/*/.gitkeep
 
-# all/<game>/ 底下只保留 labeling，其餘全部忽略
+# all/<game>/ 底下只保留 labeling 與 raw/.gitkeep，其餘全部忽略
 !/all/*
 all/*/*
 !all/*/labeling
+!all/*/raw
+all/*/raw/*
+!all/*/raw/.gitkeep
+!all/*/distribution
+all/*/distribution/*
+!all/*/distribution/.gitkeep
 
 .DS_Store
