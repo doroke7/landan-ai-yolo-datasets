@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0",
+  "version": "7.7.0",
   "flags": {},
   "shapes": [
     {
@@ -15,8 +15,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -31,24 +33,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Top",
-      "points": [
-        [
-          618.0,
-          260.0
-        ],
-        [
-          669.0,
-          294.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -63,8 +51,28 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          618.0,
+          260.0
+        ],
+        [
+          669.0,
+          294.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -79,8 +87,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -95,8 +105,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -111,8 +123,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -127,8 +141,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -143,8 +159,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -159,8 +177,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -175,8 +195,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "Top",
@@ -191,8 +213,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "1",
@@ -207,8 +231,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "1",
@@ -223,8 +249,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "1",
@@ -239,24 +267,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "2",
-      "points": [
-        [
-          551.0,
-          178.0
-        ],
-        [
-          607.0,
-          216.0
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "2",
@@ -271,8 +285,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "3",
@@ -287,8 +303,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "4",
@@ -303,8 +321,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "5",
@@ -319,8 +339,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "5",
@@ -335,8 +357,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "5",
@@ -351,8 +375,28 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "6",
+      "points": [
+        [
+          551.0,
+          178.0
+        ],
+        [
+          607.0,
+          216.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     },
     {
       "label": "6",
@@ -367,8 +411,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "6",
@@ -383,8 +429,10 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
-      "flags": {}
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "2026-09-09@17-10-43-139.png",
