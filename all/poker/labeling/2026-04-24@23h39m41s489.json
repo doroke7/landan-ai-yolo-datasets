@@ -795,6 +795,24 @@
       "mask": null
     },
     {
+      "label": "3",
+      "points": [
+        [
+          673.0,
+          530.0
+        ],
+        [
+          748.0,
+          614.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
       "label": "4",
       "points": [
         [
@@ -912,24 +930,6 @@
         [
           870.0,
           551.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "3",
-      "points": [
-        [
-          673.0,
-          530.0
-        ],
-        [
-          748.0,
-          614.0
         ]
       ],
       "group_id": null,

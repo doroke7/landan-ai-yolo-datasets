@@ -42,6 +42,24 @@
       "label": "Card",
       "points": [
         [
+          680.0994377072968,
+          326.0223751036484
+        ],
+        [
+          763.0955314572968,
+          409.5419063536484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Card",
+      "points": [
+        [
           694.3728752072968,
           143.60440635364841
         ],
@@ -78,24 +96,6 @@
       "label": "Card",
       "points": [
         [
-          680.0994377072968,
-          326.0223751036484
-        ],
-        [
-          763.0955314572968,
-          409.5419063536484
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Card",
-      "points": [
-        [
           755.3689689572968,
           296.9481563536484
         ],
@@ -120,6 +120,96 @@
         [
           920.9822502072968,
           365.2723751036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Front",
+      "points": [
+        [
+          533.0056877072968,
+          222.44425010364841
+        ],
+        [
+          591.5525627072968,
+          298.0770626036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Front",
+      "points": [
+        [
+          680.0994377072968,
+          326.0223751036484
+        ],
+        [
+          763.0955314572968,
+          409.5419063536484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Front",
+      "points": [
+        [
+          694.3728752072968,
+          143.60440635364841
+        ],
+        [
+          778.9705314572968,
+          219.15518760364841
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Front",
+      "points": [
+        [
+          713.6931877072968,
+          228.66300010364841
+        ],
+        [
+          786.5760002072968,
+          283.3739376036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Front",
+      "points": [
+        [
+          755.3689689572968,
+          296.9481563536484
+        ],
+        [
+          841.3299064572968,
+          376.1200313536484
         ]
       ],
       "group_id": null,
@@ -165,7 +255,25 @@
       "mask": null
     },
     {
-      "label": "6",
+      "label": "Diamond",
+      "points": [
+        [
+          533.0056877072968,
+          222.44425010364841
+        ],
+        [
+          591.5525627072968,
+          298.0770626036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Diamond",
       "points": [
         [
           680.0994377072968,
@@ -183,15 +291,51 @@
       "mask": null
     },
     {
-      "label": "7",
+      "label": "Diamond",
       "points": [
         [
-          533.0056877072968,
-          222.44425010364841
+          694.3728752072968,
+          143.60440635364841
         ],
         [
-          591.5525627072968,
-          298.0770626036484
+          778.9705314572968,
+          219.15518760364841
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Diamond",
+      "points": [
+        [
+          713.6931877072968,
+          228.66300010364841
+        ],
+        [
+          786.5760002072968,
+          283.3739376036484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Club",
+      "points": [
+        [
+          755.3689689572968,
+          296.9481563536484
+        ],
+        [
+          841.3299064572968,
+          376.1200313536484
         ]
       ],
       "group_id": null,
@@ -237,25 +381,7 @@
       "mask": null
     },
     {
-      "label": "8",
-      "points": [
-        [
-          694.3728752072968,
-          143.60440635364841
-        ],
-        [
-          778.9705314572968,
-          219.15518760364841
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Diamond",
+      "label": "6",
       "points": [
         [
           680.0994377072968,
@@ -273,7 +399,7 @@
       "mask": null
     },
     {
-      "label": "Diamond",
+      "label": "7",
       "points": [
         [
           533.0056877072968,
@@ -291,43 +417,7 @@
       "mask": null
     },
     {
-      "label": "Club",
-      "points": [
-        [
-          755.3689689572968,
-          296.9481563536484
-        ],
-        [
-          841.3299064572968,
-          376.1200313536484
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Diamond",
-      "points": [
-        [
-          713.6931877072968,
-          228.66300010364841
-        ],
-        [
-          786.5760002072968,
-          283.3739376036484
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Diamond",
+      "label": "8",
       "points": [
         [
           694.3728752072968,

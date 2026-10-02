@@ -795,6 +795,24 @@
       "mask": null
     },
     {
+      "label": "3",
+      "points": [
+        [
+          672.859375,
+          530.125
+        ],
+        [
+          747.859375,
+          614.125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
       "label": "4",
       "points": [
         [
@@ -912,24 +930,6 @@
         [
           870.0,
           551.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "3",
-      "points": [
-        [
-          672.859375,
-          530.125
-        ],
-        [
-          747.859375,
-          614.125
         ]
       ],
       "group_id": null,
