@@ -492,6 +492,24 @@
       "label": "Top",
       "points": [
         [
+          519.5936232016735,
+          315.31909903738494
+        ],
+        [
+          550.8000001052268,
+          350.5388008140347
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
           520.0,
           408.0
         ],
@@ -528,12 +546,48 @@
       "label": "Top",
       "points": [
         [
+          540.5108979478664,
+          343.21408634702965
+        ],
+        [
+          575.8376745976126,
+          377.41657682926314
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
           553.0,
           218.0
         ],
         [
           585.0,
           246.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          589.707836399643,
+          312.5986041135271
+        ],
+        [
+          621.120431577308,
+          345.98415297139513
         ]
       ],
       "group_id": null,
@@ -759,6 +813,24 @@
       "mask": null
     },
     {
+      "label": "2",
+      "points": [
+        [
+          519.5936232016735,
+          315.31909903738494
+        ],
+        [
+          550.8000001052268,
+          350.5388008140347
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
       "label": "3",
       "points": [
         [
@@ -921,6 +993,24 @@
       "mask": null
     },
     {
+      "label": "5",
+      "points": [
+        [
+          589.707836399643,
+          312.5986041135271
+        ],
+        [
+          621.120431577308,
+          345.98415297139513
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
       "label": "6",
       "points": [
         [
@@ -1074,96 +1164,6 @@
         [
           557.0,
           443.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Top",
-      "points": [
-        [
-          519.5936232016735,
-          315.31909903738494
-        ],
-        [
-          550.8000001052268,
-          350.5388008140347
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Top",
-      "points": [
-        [
-          589.707836399643,
-          312.5986041135271
-        ],
-        [
-          621.120431577308,
-          345.98415297139513
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Top",
-      "points": [
-        [
-          540.5108979478664,
-          343.21408634702965
-        ],
-        [
-          575.8376745976126,
-          377.41657682926314
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "2",
-      "points": [
-        [
-          519.5936232016735,
-          315.31909903738494
-        ],
-        [
-          550.8000001052268,
-          350.5388008140347
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "5",
-      "points": [
-        [
-          589.707836399643,
-          312.5986041135271
-        ],
-        [
-          621.120431577308,
-          345.98415297139513
         ]
       ],
       "group_id": null,
