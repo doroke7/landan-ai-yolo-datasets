@@ -1,0 +1,730 @@
+{
+  "version": "7.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Cube",
+      "points": [
+        [
+          404.0,
+          318.0
+        ],
+        [
+          529.0,
+          462.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9330146908760071, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          420.0,
+          502.0
+        ],
+        [
+          538.0,
+          638.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9338768720626831, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          548.0,
+          369.0
+        ],
+        [
+          654.0,
+          488.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9268649220466614, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          558.0,
+          268.0
+        ],
+        [
+          684.0,
+          395.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.931673526763916, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          701.0,
+          294.0
+        ],
+        [
+          805.0,
+          398.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9228994250297546, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          713.0,
+          378.0
+        ],
+        [
+          821.0,
+          498.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9129634499549866, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          748.0,
+          522.0
+        ],
+        [
+          876.0,
+          662.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9306634068489075, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Cube",
+      "points": [
+        [
+          768.0,
+          266.0
+        ],
+        [
+          861.0,
+          369.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.9139589667320251, \"text\": \"Cube\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          404.3473118878005,
+          316.23928650934994
+        ],
+        [
+          526.9228628673197,
+          384.18647039180763
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.8852345943450928, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          425.0,
+          502.0
+        ],
+        [
+          536.0,
+          571.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7715268731117249, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          555.0,
+          369.0
+        ],
+        [
+          651.0,
+          424.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.8687362670898438, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          561.0,
+          268.0
+        ],
+        [
+          683.9485474176313,
+          337.72192230632237
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.86441969871521, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          707.0,
+          294.0
+        ],
+        [
+          804.1274766251113,
+          355.60440783615314
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.826472818851471, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          725.0,
+          378.0
+        ],
+        [
+          815.9262299643812,
+          440.6340438557435
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7224676012992859, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          755.0,
+          522.0
+        ],
+        [
+          870.0,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.749391496181488, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Top",
+      "points": [
+        [
+          772.0,
+          266.0
+        ],
+        [
+          858.3071293410508,
+          318.30545970614423
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.8299024701118469, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          403.1681322350846,
+          373.3025378450579
+        ],
+        [
+          505.1480409617097,
+          461.2679485752449
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          420.9845280498664,
+          565.2514191896705
+        ],
+        [
+          507.12029719501334,
+          633.9360251558326
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          503.9862533392698,
+          334.10438000890474
+        ],
+        [
+          529.503840160285,
+          461.7270981745325
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          510.61261687444346,
+          533.0135518699911
+        ],
+        [
+          538.4503005342832,
+          638.7257902938558
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          550.4473230186999,
+          416.1878060997329
+        ],
+        [
+          625.8696015138023,
+          486.2220336153161
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          557.4423975957258,
+          292.43307546749776
+        ],
+        [
+          596.209233081033,
+          375.28870770258237
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          603.5834539180765,
+          312.71566117542295
+        ],
+        [
+          685.0442453250223,
+          393.7033893588602
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          627.6366317898486,
+          390.34672751558327
+        ],
+        [
+          653.2933548530722,
+          486.7264024933215
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          701.8692954140695,
+          327.81542186108635
+        ],
+        [
+          772.439197462155,
+          395.7243432769368
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          708.8887188334818,
+          418.1217998664292
+        ],
+        [
+          788.2346393588602,
+          493.78060997328583
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          747.805125779163,
+          545.0418800089047
+        ],
+        [
+          777.6324577025823,
+          660.8345391807658
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          769.6286453695459,
+          318.7750445235975
+        ],
+        [
+          805.9466829919858,
+          396.110446349065
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          774.8045135796972,
+          298.1689670525378
+        ],
+        [
+          827.5406277827249,
+          366.9857524487979
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          782.4222228406055,
+          596.4666351291185
+        ],
+        [
+          873.0312221727515,
+          659.1892531166518
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          788.464214158504,
+          407.13351513802314
+        ],
+        [
+          818.6776491540517,
+          496.0207034728406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Side",
+      "points": [
+        [
+          828.2850066785396,
+          288.72857301869993
+        ],
+        [
+          859.5489203027605,
+          367.58751669634904
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          425.0,
+          502.0
+        ],
+        [
+          536.0,
+          571.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7715268731117249, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "2",
+      "points": [
+        [
+          725.0,
+          378.0
+        ],
+        [
+          815.9262299643812,
+          440.6340438557435
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7224676012992859, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "3",
+      "points": [
+        [
+          707.0,
+          294.0
+        ],
+        [
+          804.1274766251113,
+          355.60440783615314
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.826472818851471, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "3",
+      "points": [
+        [
+          755.0,
+          522.0
+        ],
+        [
+          870.0,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.749391496181488, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "4",
+      "points": [
+        [
+          404.3473118878005,
+          316.23928650934994
+        ],
+        [
+          526.9228628673197,
+          384.18647039180763
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.8852345943450928, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "4",
+      "points": [
+        [
+          555.0,
+          369.0
+        ],
+        [
+          651.0,
+          424.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.8687362670898438, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "4",
+      "points": [
+        [
+          772.0,
+          266.0
+        ],
+        [
+          858.3071293410508,
+          318.30545970614423
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.8299024701118469, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "6",
+      "points": [
+        [
+          561.0,
+          268.0
+        ],
+        [
+          683.9485474176313,
+          337.72192230632237
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.86441969871521, \"text\": \"the top face on the dice\"}",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "2026-08-02@12h40m23s666.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}
